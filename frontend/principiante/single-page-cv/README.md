@@ -1,4 +1,6 @@
 La URL del proyecto es https://roadmap.sh/projects/single-page-cv
+
+
 La URL del repositorio es https://github.com/Rastajuan/proyectos-roadmap.sh/tree/main/frontend/principiante/single-page-cv
 
 En este proyecto, se le solicita que cree un CV (Curriculum Vitae) de una sola página utilizando únicamente HTML.
