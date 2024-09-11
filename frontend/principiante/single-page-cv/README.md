@@ -1,3 +1,5 @@
+La URL del proyecto es https://roadmap.sh/projects/single-page-cv
+
 En este proyecto, se le solicita que cree un CV (Curriculum Vitae) de una sola página utilizando únicamente HTML.
 
 Requisitos clave para este proyecto:

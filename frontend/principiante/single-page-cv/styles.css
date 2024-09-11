@@ -20,7 +20,7 @@ header {
 }
 
 section {
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 section h2 {
@@ -41,6 +41,15 @@ ul li {
 ul li h3{
     color:rgb(84, 124, 255);
 }
+ul.details {
+    list-style-type:disc; /* Aplicar decorador de círculo */
+    padding-left: 20px; /* Espacio a la izquierda para el decorador */
+}
+
+ul.details li {
+    margin-left: 10px; /* Sangría en el contenido de cada <li> */
+}
+
 a {
     text-decoration: none;
     color: #333;
